@@ -22,6 +22,7 @@ public class Estoque {
 		produtos = new ArrayList<Produto>();
 		qtdProdutos = new ArrayList<Integer>();
 		
+		
 	}
 	
 	/**

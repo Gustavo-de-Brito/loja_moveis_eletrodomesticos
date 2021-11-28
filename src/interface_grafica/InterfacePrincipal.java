@@ -17,6 +17,7 @@ public class InterfacePrincipal implements ActionListener {
 	private Font fonteTitulo, fonteBotao;
 	private static ControleDados controleDados;
 	
+	
 	public InterfacePrincipal(ControleDados controleDados) {
 		this.controleDados = controleDados;
 		

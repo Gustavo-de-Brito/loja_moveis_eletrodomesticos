@@ -47,6 +47,7 @@ public class InterfaceVenda implements ListSelectionListener, ActionListener {
 		this.controleDados = controleDados;
 		this.controleVenda = new ControleVenda(controleDados);
 		
+		
 		fonteTexto = new Font("Helvetica", Font.PLAIN, 16);
 		fonteButao = new Font("Helvetica", Font.BOLD, 16);
 		fonteTitulo = new Font("Helvetica", Font.BOLD, 30);
